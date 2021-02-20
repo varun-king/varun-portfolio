@@ -30,7 +30,7 @@ const NavBar = () => {
         <nav className="navbar">
             <div className="nav-wraper">
                 <div className="logo">
-                     <Link to="/home">
+                     <Link to="/">
                         <img src={Logo} alt="Apps Winery"/>
                      </Link>
                 </div>

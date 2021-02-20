@@ -20,9 +20,9 @@ function App() {
           <Particles/>
           <Switch>
           <Route exact path="/">
-              <Redirect to="/home" />
+              <Redirect to="/" />
           </Route>
-              <Route exact path="/home" component={Home}/>
+              <Route exact path="/" component={Home}/>
               <Route exact path="/about" component={About}/>
               <Route exact path="/skills" component={Skills}/>
               <Route exact path="/works" component={Works}/>
