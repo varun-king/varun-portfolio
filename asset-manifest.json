@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/varun-portfolio/static/css/main.d0d79908.chunk.css",
-    "main.js": "/varun-portfolio/static/js/main.9937069b.chunk.js",
-    "main.js.map": "/varun-portfolio/static/js/main.9937069b.chunk.js.map",
-    "runtime-main.js": "/varun-portfolio/static/js/runtime-main.acd1002d.js",
-    "runtime-main.js.map": "/varun-portfolio/static/js/runtime-main.acd1002d.js.map",
-    "static/js/2.0e67d9ec.chunk.js": "/varun-portfolio/static/js/2.0e67d9ec.chunk.js",
-    "static/js/2.0e67d9ec.chunk.js.map": "/varun-portfolio/static/js/2.0e67d9ec.chunk.js.map",
-    "static/js/3.8b875307.chunk.js": "/varun-portfolio/static/js/3.8b875307.chunk.js",
-    "static/js/3.8b875307.chunk.js.map": "/varun-portfolio/static/js/3.8b875307.chunk.js.map",
-    "index.html": "/varun-portfolio/index.html",
-    "static/css/main.d0d79908.chunk.css.map": "/varun-portfolio/static/css/main.d0d79908.chunk.css.map",
-    "static/js/2.0e67d9ec.chunk.js.LICENSE.txt": "/varun-portfolio/static/js/2.0e67d9ec.chunk.js.LICENSE.txt",
-    "static/media/logo.a1fb9f79.png": "/varun-portfolio/static/media/logo.a1fb9f79.png"
+    "main.css": "/varun-portfolio/home/static/css/main.d0d79908.chunk.css",
+    "main.js": "/varun-portfolio/home/static/js/main.50c26d5f.chunk.js",
+    "main.js.map": "/varun-portfolio/home/static/js/main.50c26d5f.chunk.js.map",
+    "runtime-main.js": "/varun-portfolio/home/static/js/runtime-main.17e5206c.js",
+    "runtime-main.js.map": "/varun-portfolio/home/static/js/runtime-main.17e5206c.js.map",
+    "static/js/2.b1036399.chunk.js": "/varun-portfolio/home/static/js/2.b1036399.chunk.js",
+    "static/js/2.b1036399.chunk.js.map": "/varun-portfolio/home/static/js/2.b1036399.chunk.js.map",
+    "static/js/3.8b875307.chunk.js": "/varun-portfolio/home/static/js/3.8b875307.chunk.js",
+    "static/js/3.8b875307.chunk.js.map": "/varun-portfolio/home/static/js/3.8b875307.chunk.js.map",
+    "index.html": "/varun-portfolio/home/index.html",
+    "static/css/main.d0d79908.chunk.css.map": "/varun-portfolio/home/static/css/main.d0d79908.chunk.css.map",
+    "static/js/2.b1036399.chunk.js.LICENSE.txt": "/varun-portfolio/home/static/js/2.b1036399.chunk.js.LICENSE.txt",
+    "static/media/logo.a1fb9f79.png": "/varun-portfolio/home/static/media/logo.a1fb9f79.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.acd1002d.js",
-    "static/js/2.0e67d9ec.chunk.js",
+    "static/js/runtime-main.17e5206c.js",
+    "static/js/2.b1036399.chunk.js",
     "static/css/main.d0d79908.chunk.css",
-    "static/js/main.9937069b.chunk.js"
+    "static/js/main.50c26d5f.chunk.js"
   ]
 }
