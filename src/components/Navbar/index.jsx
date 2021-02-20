@@ -30,7 +30,7 @@ const NavBar = () => {
         <nav className="navbar">
             <div className="nav-wraper">
                 <div className="logo">
-                     <Link to="/Home">
+                     <Link to="/home">
                         <img src={Logo} alt="Apps Winery"/>
                      </Link>
                 </div>
@@ -55,7 +55,7 @@ const NavBar = () => {
                     <ul style={{left: open ? "0" : "-100vw"}}>
                         <li>
                             <Link 
-                                to="/Home"
+                                to="/home"
                                 // onClick={handleClose}
                                 // style={{color: location.pathname === "/" && "#4071f4"}}
                             >
