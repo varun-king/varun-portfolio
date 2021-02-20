@@ -17,32 +17,10 @@ function App() {
     <Router>
         <div className="app">
           <NavBar/>
-          <Particles
-            // params={{
-            //     particles:{
-            //     number:{
-            //         value:30,
-            //         density:{
-            //         enable:true, 
-            //         value_area:900
-            //         }
-            //     },
-            //     "color": {
-            //       "value": "#383e56"
-            //     },
-            //     line_linked: {
-            //       shadow: {
-                   
-            //         color: "#383e56",
-                    
-            //       }
-            //     }
-            //     }
-            // }}
-       
-            />
+          <Particles/>
+          
           <Switch>
-              <Route exact path="/" component={Home}/>
+              <Route exact path="/home" component={Home}/>
               <Route exact path="/about" component={About}/>
               <Route exact path="/skills" component={Skills}/>
               <Route exact path="/works" component={Works}/>
