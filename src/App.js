@@ -1,4 +1,4 @@
-import {BrowserRouter as Router, Switch, Route, Redirect} from "react-router-dom";
+import {BrowserRouter as Router, Switch, Route, HashRouter} from "react-router-dom";
 import Home from "./components/Home/index";
 import About from "./components/About/index";
 import Footer from "./components/Footer/index";
@@ -14,14 +14,11 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
         <div className="app">
           <NavBar/>
           <Particles/>
           <Switch>
-          <Route exact path="/">
-              <Redirect to="/" />
-          </Route>
               <Route exact path="/" component={Home}/>
               <Route exact path="/about" component={About}/>
               <Route exact path="/skills" component={Skills}/>
@@ -30,7 +27,7 @@ function App() {
           </Switch>
           <Footer/>
         </div>
-    </Router>
+    </HashRouter>
     
   );
 }
