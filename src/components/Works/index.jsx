@@ -8,14 +8,17 @@ const works = () => {
             <p>Role: Software Deveveloper Intern</p>
             <p>Date: Sept 2020 - Dec 2020</p>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem necessitatibus, laboriosam fugiat esse ullam quis itaque consectetur nihil culpa dignissimos natus fuga earum maiores deleniti iure accusamus vel tempore unde ducimus expedita temporibus aut odit nam? Ipsa cum, adipisci obcaecati doloremque delectus atque omnis consequatur enim beatae eos cupiditate consequuntur eveniet dicta voluptas voluptatibus dolore. Illo repellendus ad corrupti. Nihil obcaecati debitis harum rerum odio neque recusandae provident officiis illum sint ipsa, sapiente consequatur necessitatibus sed in labore repudiandae non voluptates voluptate temporibus. Nobis ratione delectus tenetur est aperiam expedita temporibus. Id, explicabo quam. Quae adipisci est.
+                • Participated in code reviews and collaborated with peers to develop large user based high quality mobile application enabling users to play news sequentially as a podcast rather than reading them and stressing their eyes.<br/>
+                • Data fetched from google news using Python library was processed by AWS Polly, converting it from text to audio, and the resultant data, after processing, was saved to DynamoDB which was further used by React Native environment to show on front end.<br/>
+                • Carefully created a communication channel between Node and Python environments for assuring 100% data extraction and text processing running both on AWS EC2 instance.<br/>
+                • Deployed Android and iOS app to Play Store and App Store respectively by carefully managing release workflow by Git.
             </p>
             <br/>
             <p>company: NewslyMeApp</p>
             <p>Role: Software Deveveloper Intern</p>
             <p>Date: Sept 2020 - Dec 2020</p>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem necessitatibus, laboriosam fugiat esse ullam quis itaque consectetur nihil culpa dignissimos natus fuga earum maiores deleniti iure accusamus vel tempore unde ducimus expedita temporibus aut odit nam? Ipsa cum, adipisci obcaecati doloremque delectus atque omnis consequatur enim beatae eos cupiditate consequuntur eveniet dicta voluptas voluptatibus dolore. Illo repellendus ad corrupti. Nihil obcaecati debitis harum rerum odio neque recusandae provident officiis illum sint ipsa, sapiente consequatur necessitatibus sed in labore repudiandae non voluptates voluptate temporibus. Nobis ratione delectus tenetur est aperiam expedita temporibus. Id, explicabo quam. Quae adipisci est.
+                
             </p>
 
         </div>

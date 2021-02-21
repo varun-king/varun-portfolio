@@ -8,32 +8,45 @@ const skills = () => {
             <h1>Skills</h1>
             <div className="content">
                 <div>
-                    <strong>Languages:</strong>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Node.js</li>
-                    <li>Java Script</li>
+                    <strong>Programming</strong>
+                    <li>Java</li>
+                    <li>Swift</li>
+                    <li>Basic Python</li>
+                    <li>React JS, React nativ</li>
+                    <li>HTML, CSS, JavaScript</li>
                 </div>
                 <div>
-                    <strong>Libraries:</strong>
-                    <li>Bootstrap</li>
-                    <li>Express.js</li>
-                    <li>React.js</li>
+                    <strong>Frameworks/Technologies</strong>
+                    <li>HTML5, CSS3</li>
+                    <li>React JS, React nativ</li>
+                    <li>Node.js</li>
+                    <li>Android</li>
+                    <li>iOS</li>
+                    <li>MVC</li>
                 </div>
                 <div>
                     <strong>Tools:</strong>
                     <li>Git & GitHub</li>
-                    <li>Eslint</li>
-                    <li>webpack</li>
-                    <li>Chrome Dev</li>
+                    <li>REST APIs</li>
+                    <li>PostMan</li>
+                    <li>Apache Tomcat</li>
                 </div>
                 <div>
-                    <strong>Unit Tests:</strong>
-                    <li>Jest</li>
-                    <li>Enzyme</li>
-                    <li>React-test</li>
-                    <li>Supper-test</li>
+                    <strong>Cloud Technologies</strong>
+                    <li>AWS</li>
+                    <li>Firebase</li>
+                    <strong>Operating Systems</strong>
+                    <li>MacOS</li>
+                    <li>Windows</li>
+                    <li>Linux</li>
                 </div>
+                <div>
+                    <strong>Database</strong>
+                    <li>MySQL</li>
+                    <li>DynamoDB</li>
+                    <li>Firebase Firestore</li>
+                </div>
+                
             </div>
         </div>
     );
