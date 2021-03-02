@@ -12,13 +12,11 @@ const skills = () => {
                     <li>Java</li>
                     <li>Swift</li>
                     <li>Basic Python</li>
-                    <li>React JS, React nativ</li>
-                    <li>HTML, CSS, JavaScript</li>
                 </div>
                 <div>
                     <strong>Frameworks/Technologies</strong>
                     <li>HTML5, CSS3</li>
-                    <li>React JS, React nativ</li>
+                    <li>React JS, React native</li>
                     <li>Node.js</li>
                     <li>Android</li>
                     <li>iOS</li>

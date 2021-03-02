@@ -56,12 +56,7 @@
     list-style: none;
     margin-bottom: 15px;
 }
- h2{
-     text-align: center;
-     color: rgb(240, 240, 240);
-     background-color: crimson;
-     font-family: Georgia, 'Times New Roman', Times, serif;
- }
+ 
 
 .list-wraper ul li a{
     display: block;

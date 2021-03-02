@@ -4,5 +4,9 @@
 
 .works h1{
     margin-bottom: 20px;
-    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.works h2{
+    font-family:Arial, Helvetica, sans-serif;
 }
