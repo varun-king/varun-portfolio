@@ -16,7 +16,7 @@ const DATA = [
         label: "LinkedIn",
     },
     {
-        href: "mailto:developer.varunpatel.com",
+        href: "mailto:developer.varunpatel@gmail.com",
         aria: "Send me an email with this template",
         icon: <Email />,
         label: "Email",
