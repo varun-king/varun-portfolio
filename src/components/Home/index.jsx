@@ -2,12 +2,13 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Typed from 'react-typed';
 import "./style.css";
+import Particles from '../Particles/index';
 
 const Home = () => {
     return (
        <div className="home">
-           
             <div className="title">
+            
                 <h1>
                     <p>Hi,</p>
                     <p>I'm Varun</p>

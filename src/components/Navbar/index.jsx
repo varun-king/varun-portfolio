@@ -99,7 +99,7 @@ const NavBar = () => {
                 </div>
 
             </div>
-            <h2>React Js site  is under-Constuction</h2>
+            
         </nav>
     )
 }
